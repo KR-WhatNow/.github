@@ -8,7 +8,7 @@
 
 **あなたのAIはそのバグを直せる。何が起きたのかを知りさえすれば。**
 
-[ウェブサイト](https://whatnow.dev) · [プロジェクト提案書](../docs/PROPOSAL.md) · [ロードマップ](../docs/ROADMAP.md)
+[ウェブサイト](https://whatnow.dev) · [プロジェクト提案書](https://github.com/kr-whatnow/whatnow/blob/main/docs/PROPOSAL.md) · [ロードマップ](https://github.com/kr-whatnow/whatnow/blob/main/docs/ROADMAP.md)
 
 </div>
 

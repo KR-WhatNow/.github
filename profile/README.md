@@ -8,7 +8,7 @@
 
 **Your AI can fix it. It just needs to know what happened.**
 
-[Website](https://whatnow.dev) · [Project Proposal](../docs/PROPOSAL.md) · [Roadmap](../docs/ROADMAP.md)
+[Website](https://whatnow.dev) · [Project Proposal](https://github.com/kr-whatnow/whatnow/blob/main/docs/PROPOSAL.md) · [Roadmap](https://github.com/kr-whatnow/whatnow/blob/main/docs/ROADMAP.md)
 
 </div>
 
