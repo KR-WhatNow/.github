@@ -8,7 +8,7 @@
 
 **당신의 AI는 그 버그를 고칠 수 있다. 무슨 일이 있었는지 알기만 하면.**
 
-[웹사이트](https://whatnow.dev) · [프로젝트 제안서](https://github.com/kr-whatnow/whatnow/blob/main/docs/PROPOSAL.md) · [로드맵](https://github.com/kr-whatnow/whatnow/blob/main/docs/ROADMAP.md)
+[웹사이트](https://whatnow.dev)
 
 </div>
 
